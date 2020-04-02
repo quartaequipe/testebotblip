@@ -2,7 +2,7 @@ var openBlipChat;
 
 window.onload = function () {
 		
-	const appkey = "aGVucmlxdWVib3QxOmE5YTg2OGFmLTY5NDctNGQ3OC04NTUwLTU0ZGMxNjUyMjI3Ng==";
+	const appkey = "c25yb3V0ZXI6MzE1ZGQzZDctMDM2OS00N2U4LTg1YzktN2E2YzljM2ExY2I2";
 
 	var client = new BlipChat()
 	.withAppKey(appkey)
